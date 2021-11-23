@@ -2,6 +2,7 @@ import styled from '@emotion/styled';
 // import image from './cryptocurrencies.jpg';
 import Form from './components/Form';
 
+
 const Container = styled.div`
   max-width: 1200px;
   min-height: 800px;
@@ -32,9 +33,7 @@ function App() {
       <Heading>
         Convert Cryptocurrencies
       </Heading>
-      <Form>
-
-      </Form>
+      <Form />
     </Container>
   );
 }

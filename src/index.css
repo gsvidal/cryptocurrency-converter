@@ -5,6 +5,7 @@
 }
 body {
   background: url('./cryptocurrencies.jpg') center/cover no-repeat;
+  color: white;
 }
 .error {
   background-color: #b7322c;

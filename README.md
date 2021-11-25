@@ -1,3 +1,31 @@
+# TV-Series Quotes
+<a href="https://www.gonzalovidal.dev/cryptocurrency-converter/">
+  <img src="https://i.postimg.cc/CKJgs18X/cryptocurrency-converter.png">
+</a> 
+
+A React App where you can convert traditional currencies into cryptocurrencies and know their current, lower and high values.
+The cryptocurrencies data is from <a href="https://www.cryptocompare.com/">Crypto Compare API</a> 
+
+## Technologies used:
+
+- Create React App.
+
+- Styled components with @emotion.
+
+- Axios package.
+
+- Documented with Prop Types.
+
+## Features:
+
+- Five currencies and 10 crytocurrencies to choose from.
+
+- Besides the price, it's also available everyday's lower & higher prices, 24 hour difference price and last update time. 
+
+- The asyncronous call was using axios.
+
+<hr />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

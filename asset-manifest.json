@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency-converter/static/css/main.370778f0.chunk.css",
+    "main.js": "/cryptocurrency-converter/static/js/main.f509da43.chunk.js",
+    "main.js.map": "/cryptocurrency-converter/static/js/main.f509da43.chunk.js.map",
+    "runtime-main.js": "/cryptocurrency-converter/static/js/runtime-main.6171c0cc.js",
+    "runtime-main.js.map": "/cryptocurrency-converter/static/js/runtime-main.6171c0cc.js.map",
+    "static/js/2.a62b7103.chunk.js": "/cryptocurrency-converter/static/js/2.a62b7103.chunk.js",
+    "static/js/2.a62b7103.chunk.js.map": "/cryptocurrency-converter/static/js/2.a62b7103.chunk.js.map",
+    "static/js/3.b1a649ee.chunk.js": "/cryptocurrency-converter/static/js/3.b1a649ee.chunk.js",
+    "static/js/3.b1a649ee.chunk.js.map": "/cryptocurrency-converter/static/js/3.b1a649ee.chunk.js.map",
+    "index.html": "/cryptocurrency-converter/index.html",
+    "static/css/main.370778f0.chunk.css.map": "/cryptocurrency-converter/static/css/main.370778f0.chunk.css.map",
+    "static/js/2.a62b7103.chunk.js.LICENSE.txt": "/cryptocurrency-converter/static/js/2.a62b7103.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cryptocurrency-converter/static/media/cryptocurrencies.ba6cbf1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6171c0cc.js",
+    "static/js/2.a62b7103.chunk.js",
+    "static/css/main.370778f0.chunk.css",
+    "static/js/main.f509da43.chunk.js"
+  ]
+}

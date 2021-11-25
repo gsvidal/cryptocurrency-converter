@@ -4,8 +4,13 @@
   box-sizing: border-box;
 }
 body {
-  background: url('./cryptocurrencies.jpg') center/cover no-repeat;
+  background: url('./cryptocurrencies-small.png') center/cover no-repeat;
   color: white;
+}
+@media screen and (min-width: 850px) {
+  body {
+    background-image: url('./cryptocurrencies.jpg');
+  }
 }
 .error {
   background-color: #b7322c;

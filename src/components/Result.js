@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
+import PropTypes from 'prop-types';
 
 const ContainerResult = styled.div`
   padding: 20px;
@@ -38,6 +39,10 @@ const Result = ({data}) => {
       <Info>Last update: <span>{LASTUPDATE}</span></Info>
     </ContainerResult>
   );
+}
+
+Result.propTypes = {
+  data: PropTypes.object.isRequired
 }
 
 export default Result;

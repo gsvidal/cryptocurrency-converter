@@ -4,6 +4,7 @@ import useCurrency from '../hooks/useCurrency';
 import useCryptocurrency from '../hooks/useCryptocurrency';
 import axios from 'axios';
 import Error from './Error';
+import PropTypes from 'prop-types';
 
 const FormContainer = styled.section`
   max-width: 50vw;
@@ -97,6 +98,12 @@ const Form = ({setCurrency, setCryptocurrency, setLoading}) => {
       </form>
     </FormContainer>
   );
+}
+
+Form.propTypes = {
+  setCurrency: PropTypes.func.isRequired, 
+  setCryptocurrency: PropTypes.func.isRequired, 
+  setLoading: PropTypes.func.isRequired
 }
 
 export default Form;

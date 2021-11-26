@@ -10,9 +10,10 @@ const Container = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   max-width: 600px;
-  min-height: 800px;
+  min-height: 1000px;
   height: 100vh;
   padding: 180px 20px;
+  margin-bottom: 30px;
   @media (min-width: 1440px) {
     width: 600px;
     margin-left: 10%;
